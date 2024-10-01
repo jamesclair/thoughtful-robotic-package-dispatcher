@@ -16,3 +16,8 @@ You must dispatch the packages in the following stacks:
 - **SPECIAL**: packages that are either heavy or bulky can't be handled automatically.
 - **REJECTED**: packages that are **both** heavy and bulky are rejected.
 
+## Running
+
+`python main.py`
+
+Note: This will run a few tests for expected results and edge cases.  You'll need to add your own calls or tests to the bottom of main to test further as I ran out of time to add input support.
